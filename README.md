@@ -1,4 +1,21 @@
-### Hi there 👋
+<h1>Oláa ✌️<h1>
+
+<p>Estou cursando o 2° Módulo do curso de Desenvolvimento de Sistemas da Etec...<br>
+Atualemente estou aprendendo:<p>
+
+Php, C#, Html, Css, Bd...
+
+
+
+<p> Entre outras coisas 👌<p>
+
+
+
+
+
+
+
+
 
 <!--
 **GSantos123/GSantos123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
